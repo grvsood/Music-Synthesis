@@ -1,1 +1,1 @@
-# Music-Synthesis
+# Music-Synthesize
